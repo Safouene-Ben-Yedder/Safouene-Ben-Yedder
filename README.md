@@ -47,12 +47,12 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Intern - Experts-Dev",
-    "Intern - MB Design",
-    "Intern - Intuitiv Interactive",
-    "Intern - Apps Factor",
-    "Intern - BePro Consutling",
-    "Intern - Tunisie Telecom",
+    "Intern - Experts-Dev - 4 Months",
+    "Intern - Intuitiv Interactive - 6 Months",
+    "Intern - MB Design - 1 Months",
+    "Intern - Apps Factor - 1 Month",
+    "Intern - BePro Consutling - 1 Month",
+    "Intern - Tunisie Telecom - 1 Month",
   ]
   
 currently_learning: ["data science , Devops , Cloud , machine learning"]
