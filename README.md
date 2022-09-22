@@ -1,3 +1,28 @@
+
+<p align="center">
+  <img width="200" src="https://res.cloudinary.com/dlnxy723j/image/upload/v1663868286/Images/Logo_Black_ud187o.png">
+</p>
+
+<p align="center">
+<h1 align="center">Hi 👋, I'm Safouene Ben Yedder </h1>
+<h3 align="center">A passionate developer</h3>
+<br>
+</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<br><br>
+- 🔭 I’m currently completeing my final year in my engieering studies and searching for an Internship 
+
+- 🌱 I’m currently learning **data science and DevOps**
+
+- 📫 How to reach me **Safouene.BenYedder@gmail.com**
+
+- ⚡ Fun fact **I am Funny xD when you get to know me**
+
+- 💬 Get in touch with me : <a href="https://linktr.ee/safouenebenyedder" alt="MyLinkTree" target="blank"> **My LinkTree**</a>
+
+
+<br>
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
