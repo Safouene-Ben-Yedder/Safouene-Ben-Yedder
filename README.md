@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **data science and DevOps**
 
-- 📫 How to reach me **Safouene.BenYedder@gmail.com**
+- 📫 How to reach me :  **Safouene.BenYedder@gmail.com**
 
-- ⚡ Fun fact **I am Funny xD when you get to know me**
+- ⚡ Fun fact :  **I am Funny xD when you get to know me**
 
 - 💬 Get in touch with me : <a href="https://linktr.ee/safouenebenyedder" alt="MyLinkTree" target="blank"> **My LinkTree**</a>
 
