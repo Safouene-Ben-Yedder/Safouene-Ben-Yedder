@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <br><br>
-- 🔭 I’m currently completeing my final year in my engieering studies and searching for an Internship 
+- 🔭 I’m currently completing my final year in my engineering studies and I'm looking for an Internship 
 
 - 🌱 I’m currently learning **data science and DevOps**
 
